@@ -21,15 +21,16 @@ header {
 
 .foto {
     margin: auto;
+    
 }
 
 img {
-    
     text-align: center;
 
     border-radius: 130px;
     border-style: none;
     box-shadow: #363636 2px 2px 250px;
+    
 }
 
 .Nome {
@@ -54,6 +55,14 @@ p {
     width: 250px;
 }
 
+.icon {
+    text-align: center;
+
+    border-radius: 0px;
+    border-style: none;
+    
+}
+
 
 .linka {
     
@@ -64,6 +73,12 @@ p {
     text-align: center;
     margin: 40px 100px;
 }
+
+
+.Linkss {
+    
+}
+
 
 a {
     text-align: center;
